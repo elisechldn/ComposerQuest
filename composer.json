@@ -1,0 +1,16 @@
+{
+    "name": "wild/app",
+    "description": "Quête Composer 2 - Autoload",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elise",
+            "email": "elise.chaldjian@gmail.com"
+        }
+    ],
+    "require": {}
+}
